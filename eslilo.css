@@ -1,0 +1,22 @@
+.cabecalho {
+    background-color: darkred;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: azure;
+}
+
+
+
+simpatico1 {
+    width: 202px;
+}
+
+DSNews {
+    size-adjust: 40px;
+}
+
+.item-lista {
+    display: inline-block;
+    margin: 0 60px;
+}
